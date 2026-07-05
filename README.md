@@ -44,23 +44,8 @@
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PabloMarroquinnn1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Stats de Pablo" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMarroquinnn1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloMarroquinnn1&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de actividad" />
-
-</div>
-
-> *Nota: Top languages solo refleja el código público de mis repos, no mi nivel de experiencia.*
-
----
-
-## 🏆 Trofeos
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PabloMarroquinnn1&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trofeos de GitHub" />
+<!-- Esta imagen la genera GitHub Actions (workflow Metrics) dentro de tu propio repo -->
+<img src="./metrics.svg" alt="Métricas de Pablo: stats, lenguajes, calendario y logros" />
 
 </div>
 
@@ -93,6 +78,20 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,gcp,aws,vscode,linux,postman,figma" alt="Herramientas" />
+
+</div>
+
+---
+
+## 🐍 Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PabloMarroquinnn1/PabloMarroquinnn1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PabloMarroquinnn1/PabloMarroquinnn1/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/PabloMarroquinnn1/PabloMarroquinnn1/output/github-snake.svg" alt="Snake comiéndose mis contribuciones" />
+</picture>
 
 </div>
 
