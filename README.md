@@ -14,14 +14,22 @@
 - ⚙️ Trabajo con metodologías **Scrum** y **GitFlow**
 - 💬 Preguntame sobre **Java, Python o Apache Cassandra**
 
+## 🏅 Logros
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/%F0%9F%A5%87%201er%20Lugar-Hackathon%20Samsung%20Innovation%20Campus-1428A0?style=for-the-badge&logo=samsung&logoColor=white" alt="1er Lugar Hackathon Samsung SIC" />
+<img src="https://img.shields.io/badge/Samsung%20Innovation%20Campus-Graduado-034EA2?style=for-the-badge&logo=samsung&logoColor=white" alt="Samsung Innovation Campus" />
+
+</div>
+
 ## 📫 Conecta conmigo
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-alejandro-marroquin)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pabloalejandrocutz@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://pablomq_13.com/)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pablomq_13/)
 
 </div>
 
@@ -31,16 +39,20 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PabloMarroquinnn1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Stats de Pablo" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPabloMarroquinnn1&query=%24.public_repos&style=for-the-badge&label=Repositorios%20p%C3%BAblicos&color=00BFFF" alt="Repos públicos" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPabloMarroquinnn1&query=%24.followers&style=for-the-badge&label=Seguidores&color=00BFFF" alt="Seguidores" />
+
+<br/><br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PabloMarroquinnn1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Stats de Pablo" />
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMarroquinnn1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados" />
-
-> *Nota: Top languages solo refleja el código público de mis repos, no mi nivel de experiencia.*
-
-<img src="https://streak-stats.demolab.com?user=PabloMarroquinnn1&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PabloMarroquinnn1&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de actividad" />
 
 </div>
+
+> *Nota: Top languages solo refleja el código público de mis repos, no mi nivel de experiencia.*
 
 ---
 
@@ -59,21 +71,28 @@
 ### Lenguajes
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,fortran" alt="Lenguajes" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,go,html,css" alt="Lenguajes" />
+
+</div>
+
+### Frameworks y Librerías
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,angular,django,flask,nodejs,spring,tailwind" alt="Frameworks" />
 
 </div>
 
 ### Bases de Datos
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,cassandra" alt="Bases de datos" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,cassandra,redis,sqlite" alt="Bases de datos" />
 
 </div>
 
 ### Herramientas y Cloud
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,gcp,vscode,linux,postman" alt="Herramientas" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,gcp,aws,vscode,linux,postman,figma" alt="Herramientas" />
 
 </div>
 
