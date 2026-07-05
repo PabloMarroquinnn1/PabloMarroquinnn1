@@ -56,14 +56,14 @@
 ### Lenguajes
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,go,html,css" alt="Lenguajes" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,go,php,html,css" alt="Lenguajes" />
 
 </div>
 
 ### Frameworks y Librerías
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,angular,django,flask,nodejs,spring,tailwind" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=react,angular,django,flask,nodejs,spring,laravel,tailwind" alt="Frameworks" />
 
 </div>
 
