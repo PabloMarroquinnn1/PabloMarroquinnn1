@@ -125,16 +125,12 @@ Sistema experto para diagnóstico de computadoras con **SWI-Prolog**, API en Fla
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PabloMarroquinnn1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00BFFF&icon_color=00BFFF&count_private=true" alt="Estadísticas de GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloMarroquinnn1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00BFFF&langs_count=8" alt="Lenguajes más usados" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=PabloMarroquinnn1&theme=tokyonight&hide_border=true&background=00000000&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="Racha de contribuciones" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=PabloMarroquinnn1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trofeos de GitHub" />
+<!-- Generado por GitHub Actions (workflow Metrics) — incluye stats, lenguajes, calendario y logros -->
+<img src="./metrics.svg" alt="Métricas de GitHub: estadísticas, lenguajes, calendario de contribuciones y logros" />
 
 </div>
 
