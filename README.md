@@ -39,7 +39,7 @@ class PabloMarroquin:
 
 </div>
 
-## 🚀 Proyectos destacados
+##  Proyectos destacados
 
 <table>
 <tr>
@@ -121,7 +121,7 @@ Sistema experto para diagnóstico de computadoras con **SWI-Prolog**, API en Fla
 
 </div>
 
-## 📊 Estadísticas
+##  Estadísticas
 
 <div align="center">
 
@@ -134,7 +134,7 @@ Sistema experto para diagnóstico de computadoras con **SWI-Prolog**, API en Fla
 
 </div>
 
-## 🐍 La serpiente nunca descansa
+## 🐍 
 
 <div align="center">
 
