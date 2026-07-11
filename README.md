@@ -1,106 +1,32 @@
-<div align="center">
+name: Generate Snake
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hola!+Soy+Pablo+Marroqu%C3%ADn+%F0%9F%91%8B;Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Backend+%7C+Bases+de+Datos+%7C+Cloud;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80)](https://git.io/typing-svg)
+on:
+  schedule:
+    - cron: "0 0 * * *"   # se regenera cada día a medianoche UTC
+  workflow_dispatch:       # permite ejecutarlo manualmente desde la pestaña Actions
+  push:
+    branches:
+      - main
 
-</div>
+permissions:
+  contents: write
 
----
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: PabloMarroquinnn1
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark&color_dots=#0d1117,#0e4429,#006d32,#26a641,#39d353
 
-## 🧑‍💻 Sobre mí
-
-- 🎓 Estudiante de **Ingeniería en Ciencias y Sistemas 10mo semestre** — USAC 🇬🇹
-- 🌱 Actualmente aprendiendo **bases de datos distribuidas, cloud (GCP) y desarrollo backend**
-- 🤖 Me interesa la **implementación de IA** en aplicaciones reales
-- ⚙️ Trabajo con metodologías **Scrum** y **GitFlow**
-- 💬 Preguntame sobre **Java, Python o Apache Cassandra**
-
-## 🏅 Logros
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/%F0%9F%A5%87%201er%20Lugar-Hackathon%20Samsung%20Innovation%20Campus-1428A0?style=for-the-badge&logo=samsung&logoColor=white" alt="1er Lugar Hackathon Samsung SIC" />
-<img src="https://img.shields.io/badge/Samsung%20Innovation%20Campus-Graduado-034EA2?style=for-the-badge&logo=samsung&logoColor=white" alt="Samsung Innovation Campus" />
-
-</div>
-
-## 📫 Conecta conmigo
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-alejandro-marroquin)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pabloalejandrocutz@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pablomq_13/)
-
-</div>
-
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPabloMarroquinnn1&query=%24.public_repos&style=for-the-badge&label=Repositorios%20p%C3%BAblicos&color=00BFFF" alt="Repos públicos" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPabloMarroquinnn1&query=%24.followers&style=for-the-badge&label=Seguidores&color=00BFFF" alt="Seguidores" />
-
-<br/><br/>
-
-<!-- Esta imagen la genera GitHub Actions (workflow Metrics) dentro de tu propio repo -->
-<img src="./metrics.svg" alt="Métricas de Pablo: stats, lenguajes, calendario y logros" />
-
-</div>
-
----
-
-## 🛠️ Tecnologías y Herramientas
-
-### Lenguajes
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,go,php,html,css" alt="Lenguajes" />
-
-</div>
-
-### Frameworks y Librerías
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,angular,django,flask,nodejs,spring,laravel,tailwind" alt="Frameworks" />
-
-</div>
-
-### Bases de Datos
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,cassandra,redis,sqlite" alt="Bases de datos" />
-
-</div>
-
-### Herramientas y Cloud
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,gcp,aws,vscode,linux,postman,figma" alt="Herramientas" />
-
-</div>
-
----
-
-## 🐍 Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PabloMarroquinnn1/PabloMarroquinnn1/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PabloMarroquinnn1/PabloMarroquinnn1/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/PabloMarroquinnn1/PabloMarroquinnn1/output/github-snake.svg" alt="Snake comiéndose mis contribuciones" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=PabloMarroquinnn1&color=00BFFF&style=for-the-badge&label=Visitas+al+perfil" alt="Contador de visitas" />
-
-### ⭐ *"El código que escribís hoy es el legado que dejás mañana"* ⭐
-
-</div>
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
