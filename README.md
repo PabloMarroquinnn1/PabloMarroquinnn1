@@ -13,6 +13,10 @@
 
 ## 🧑‍💻 Sobre mí
 
+<table>
+<tr>
+<td width="62%">
+
 ```python
 class PabloMarroquin:
     def __init__(self):
@@ -29,6 +33,18 @@ class PabloMarroquin:
 - 🌱 Actualmente profundizando en **bases de datos distribuidas, cloud (GCP) y arquitectura backend**
 - 🤖 Me apasiona llevar la **IA a aplicaciones reales**, no solo a notebooks
 - 💬 Preguntame sobre **Java, Python o Apache Cassandra**
+
+</td>
+<td width="38%" align="center">
+
+<!-- Avatar pixel-art que se dibuja solo (generado por el workflow Pixel Avatar) -->
+<img src="./pixel-avatar.svg" alt="Mi avatar en pixel art, dibujándose línea por línea" width="100%"/>
+
+<sub>🎨 <i>Mi avatar renderizado en pixel-art — se dibuja solo</i></sub>
+
+</td>
+</tr>
+</table>
 
 ## 🏅 Logros
 
@@ -121,6 +137,29 @@ Sistema experto para diagnóstico de computadoras con **SWI-Prolog**, API en Fla
 
 </div>
 
+## 🕹️ Zona Arcade
+
+<div align="center">
+
+### 🚀 Mis contribuciones convertidas en batalla espacial
+
+<!-- Generado por GitHub Actions (workflow Space Shooter) — mis commits son los enemigos -->
+<img src="./game.gif" alt="Juego espacial: una nave dispara a mis contribuciones de GitHub" width="90%"/>
+
+<br/><br/>
+
+### 🐍 Y la serpiente que se las come
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PabloMarroquinnn1/PabloMarroquinnn1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PabloMarroquinnn1/PabloMarroquinnn1/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/PabloMarroquinnn1/PabloMarroquinnn1/output/github-snake.svg" alt="Snake comiéndose mis contribuciones" />
+</picture>
+
+<sub><i>Mis commits no descansan: de día son invadidos por una nave, de noche se los come una serpiente</i> 😅</sub>
+
+</div>
+
 ##  Estadísticas
 
 <div align="center">
@@ -131,18 +170,6 @@ Sistema experto para diagnóstico de computadoras con **SWI-Prolog**, API en Fla
 
 <!-- Generado por GitHub Actions (workflow Metrics) — incluye stats, lenguajes, calendario y logros -->
 <img src="./metrics.svg" alt="Métricas de GitHub: estadísticas, lenguajes, calendario de contribuciones y logros" />
-
-</div>
-
-## 🐍 
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PabloMarroquinnn1/PabloMarroquinnn1/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PabloMarroquinnn1/PabloMarroquinnn1/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/PabloMarroquinnn1/PabloMarroquinnn1/output/github-snake.svg" alt="Snake comiéndose mis contribuciones" />
-</picture>
 
 </div>
 
