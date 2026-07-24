@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00BFFF&height=200&section=header&text=Pablo%20Marroqu%C3%ADn&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%7C%20Bases%20de%20Datos%20%7C%20Cloud&descAlignY=55&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hola!+Soy+Pablo+Marroqu%C3%ADn+%F0%9F%91%8B;%F0%9F%A5%87+1er+Lugar+Hackathon+Samsung+SIC;Backend+%7C+Bases+de+Datos+%7C+Cloud;Convierto+ideas+en+sistemas+que+funcionan+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Hola!+Soy+Pablo+Marroqu%C3%ADn+%F0%9F%91%8B;%F0%9F%A5%87+1er+Lugar+Hackathon+Samsung+SIC;Backend+%7C+Bases+de+Datos+%7C+Cloud;Convierto+ideas+en+sistemas+que+funcionan+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/pablo-alejandro-marroquin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:pabloalejandrocutz@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -155,8 +155,6 @@ Sistema experto para diagnóstico de computadoras con **SWI-Prolog**, API en Fla
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PabloMarroquinnn1/PabloMarroquinnn1/output/github-snake.svg" />
   <img src="https://raw.githubusercontent.com/PabloMarroquinnn1/PabloMarroquinnn1/output/github-snake.svg" alt="Snake comiéndose mis contribuciones" />
 </picture>
-
-<sub><i>Mis commits no descansan: de día son invadidos por una nave, de noche se los come una serpiente</i> 😅</sub>
 
 </div>
 
