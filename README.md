@@ -141,14 +141,14 @@ Sistema experto para diagnóstico de computadoras con **SWI-Prolog**, API en Fla
 
 <div align="center">
 
-### 🚀 Mis contribuciones convertidas en batalla espacial
+###  Mis contribuciones convertidas en batalla espacial
 
 <!-- Generado por GitHub Actions (workflow Space Shooter) — mis commits son los enemigos -->
 <img src="./game.gif" alt="Juego espacial: una nave dispara a mis contribuciones de GitHub" width="90%"/>
 
 <br/><br/>
 
-### 🐍 Y la serpiente que se las come
+### Juego Serpiente
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PabloMarroquinnn1/PabloMarroquinnn1/output/github-snake-dark.svg" />
