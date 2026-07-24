@@ -1,0 +1,33 @@
+name: 🎨 Pixel Avatar
+
+on:
+  schedule:
+    - cron: "0 6 * * 1" # cada lunes (por si cambiás tu foto de perfil)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install Pillow
+
+      - name: Generar avatar pixel-art
+        run: python scripts/pixel_avatar.py PabloMarroquinnn1 pixel-avatar.svg
+
+      - name: Commit del SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add pixel-avatar.svg
+          git diff --staged --quiet || git commit -m "🎨 Actualizar pixel avatar"
+          git push
