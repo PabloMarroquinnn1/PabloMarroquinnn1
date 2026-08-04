@@ -124,7 +124,7 @@ Sistema experto para diagnóstico de computadoras con **SWI-Prolog**, API en Fla
 
 **Frameworks y Librerías**
 
-<img src="https://skillicons.dev/icons?i=react,angular,django,flask,nodejs,spring,laravel,tailwind" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,spring,nodejs,react,nextjs,angular,tailwind" alt="Frameworks" />
 
 **Bases de Datos**
 
