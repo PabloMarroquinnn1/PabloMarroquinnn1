@@ -11,7 +11,7 @@
 
 </div>
 
-## 🧑‍💻 Sobre mí
+##  Sobre mí
 
 <table>
 <tr>
@@ -30,9 +30,9 @@ class PabloMarroquin:
         return "He modelado datos en grafos (Neo4j), clusters (Cassandra) y hasta en Prolog 🤯"
 ```
 
-- 🌱 Actualmente profundizando en **bases de datos distribuidas, cloud (GCP) y arquitectura backend**
-- 🤖 Me apasiona llevar la **IA a aplicaciones reales**, no solo a notebooks
-- 💬 Preguntame sobre **Java, Python o Apache Cassandra**
+-  Actualmente profundizando en **bases de datos distribuidas, cloud (GCP) y arquitectura backend**
+-  Me apasiona llevar la **IA a aplicaciones reales**, no solo a notebooks
+-  Preguntame sobre **Java, Python o Apache Cassandra**
 
 </td>
 <td width="38%" align="center">
@@ -40,13 +40,11 @@ class PabloMarroquin:
 <!-- Avatar pixel-art que se dibuja solo (generado por el workflow Pixel Avatar) -->
 <img src="./pixel-avatar.svg" alt="Mi avatar en pixel art, dibujándose línea por línea" width="100%"/>
 
-<sub>🎨 <i>Mi avatar renderizado en pixel-art — se dibuja solo</i></sub>
-
 </td>
 </tr>
 </table>
 
-## 🏅 Logros
+##  Logros
 
 <div align="center">
 
